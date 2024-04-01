@@ -1,4 +1,4 @@
 library lib;
 
-export './pages/index.dart';
-export './common/index.dart';
+export 'pages/index.dart';
+export 'common/index.dart';

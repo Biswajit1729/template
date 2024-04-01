@@ -1,4 +1,4 @@
 library pages;
 
-export './app/index.dart';
-export './index/index.dart';
+export 'app/index.dart';
+export 'index/index.dart';
