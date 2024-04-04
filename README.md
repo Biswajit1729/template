@@ -6,6 +6,10 @@ A new Flutter project.
 
 flutter create --org com --platforms android heydudes
 
+## Google Sign In
+
+https://www.youtube.com/watch?v=E5WgU6ERZzA
+
 
 This project is a starting point for a Flutter application.
 
